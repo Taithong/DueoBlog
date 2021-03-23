@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299558668096",
+    "project_id": "dueoblog",
+    "storage_bucket": "dueoblog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299558668096:android:db4245c59d84b8c23e5ca5",
+        "android_client_info": {
+          "package_name": "com.dueoflutter.dueoblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299558668096-5tr6o0c8sue720c605q6ml361uafo5o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB75bgN96HLTvwxPe2-DjahdhvND8sWnxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299558668096-5tr6o0c8sue720c605q6ml361uafo5o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
